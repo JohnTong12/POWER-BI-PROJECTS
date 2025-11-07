@@ -84,7 +84,7 @@ Built on a **robust star schema** for performance and accuracy:
 ---
 
 ### 3. **Compensation** – Fair Pay, Smart Spend
-![Compensation Page](HR%20Dashboard/Images/compensation.png)
+![Compensation Page](Images_HR/Compensation.png)
 
 - Salary distribution (min, max, median, avg)
 - Bonus-to-salary ratio by department
@@ -96,7 +96,7 @@ Built on a **robust star schema** for performance and accuracy:
 ---
 
 ### 4. **Employee Details** – Know Your People
-![Employee Details](HR%20Dashboard/Images/employee_details.png)
+![Employee Details](Images_HR/Employee_Details.png)
 
 - Gender: **54% Female**, **46% Male**
 - Age groups & education levels
@@ -108,7 +108,7 @@ Built on a **robust star schema** for performance and accuracy:
 ---
 
 ### 5. **Employee Turnover** – Stop the Leak
-![Turnover Page](HR%20Dashboard/Images/turnover.png)
+![Turnover Page](Images_HR/Employee_Turn_Over.png)
 
 - Turnover rate by year & department
 - Top exit reasons: **Restructuring (5)**, **Burnout (3)**
@@ -120,7 +120,7 @@ Built on a **robust star schema** for performance and accuracy:
 ---
 
 ### 6. **Engagement & Training** – Invest in Growth
-![Training Page](HR%20Dashboard/Images/training.png)
+![Training Page](Images_HR/Engagement_and_training.png)
 
 - Satisfaction & engagement trends
 - Top 10 roles by training hours
@@ -143,24 +143,9 @@ Built on a **robust star schema** for performance and accuracy:
 
 ---
 
-## Get Started in Seconds
-
-1. Open in **Power BI Desktop** or **Service**
-2. Use **Year** and **Location** slicers
-3. Click any bar or point to drill
-4. Hover for detailed tooltips
-5. Share with HR & leadership
-
----
-
-**Built with precision by John Tong**  
-*Turning HR data into human impact.*
-
----
-
 > **Last updated**: November 07, 2025 11:15 AM EAT  
 > **Email**: [tongjohn308@gmail.com](mailto:tongjohn308@gmail.com)  
-> **Author on X**: [@TAyuel36277](https://x.com/TAyuel36277)  
+> **Author on Linkedin**: [@John Tong](https://x.com/TAyuel36277)  
 > **Location**: Uganda
 
 ---
