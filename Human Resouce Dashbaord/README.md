@@ -145,7 +145,7 @@ Built on a **robust star schema** for performance and accuracy:
 
 > **Last updated**: November 07, 2025 11:15 AM EAT  
 > **Email**: [tongjohn308@gmail.com](mailto:tongjohn308@gmail.com)  
-> **Author on Linkedin**: [@John Tong](https://x.com/TAyuel36277)  
+> **Author on Linkedin**: [@John Tong](https://www.linkedin.com/in/johntong123)  
 > **Location**: 🇺🇬Uganda
 
 ---
