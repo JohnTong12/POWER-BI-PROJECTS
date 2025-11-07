@@ -12,7 +12,7 @@ Perfect for **project managers**, **teams**, and **leaders** who want to stay on
 
 ## Data Model – Clean & Powerful (Star Schema) 🏗️
 
-![Data Model View](Performance%20Dashboard/Image_Performance/Model_View.png)
+![Data Model View](Image_Performance/Model_View.png)
 
 Built on a **robust star schema** for speed and accuracy:
 
@@ -64,7 +64,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ## 4 Powerful Pages to Explore
 
 ### 1. **Home** – Your Daily Command Center
-![Home Dashboard](Performance%20Dashboard/Image_Performance/P_Dashboard.png)
+![Home Dashboard](Image_Performance/P_Dashboard.png)
 
 - Big KPIs: 53 projects, $8.7M spent, 75% progress
 - Donut charts: Status & priority
@@ -76,7 +76,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ---
 
 ### 2. **Cost Analysis** – Follow the Money
-![Cost Analysis](Performance%20Dashboard/Image_Performance/Cost_Analysis.png)
+![Cost Analysis](Image_Performance/Cost_Analysis.png)
 
 - Monthly trend: Budget vs actual spend
 - Budget by type: **Residential ($2.1M)**, **Commercial ($2.1M)**
@@ -87,7 +87,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ---
 
 ### 3. **Project Timeline** – Gantt-Style View
-![Project Timeline](Performance%20Dashboard/Image_Performance/Project%20Timeline.png)
+![Project Timeline](Image_Performance/Project Timeline.png)
 
 - Color-coded bars: Completed, In Progress, Not Started, Overdue
 - See task owners: **Omar Karim** & **Adil Sami** juggling multiple
@@ -98,7 +98,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ---
 
 ### 4. **Project Manager** – Team Performance Hub
-![Manager Insights](Performance%20Dashboard/Image_Performance/P_Manager.png)
+![Manager Insights](Image_Performance/P_Manager.png)
 
 | Manager | Projects | Overdue | Budget Used | Progress |
 |--------|----------|---------|-------------|----------|
