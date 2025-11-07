@@ -146,14 +146,7 @@ Built on a **robust star schema** for performance and accuracy:
 > **Last updated**: November 07, 2025 11:15 AM EAT  
 > **Email**: [tongjohn308@gmail.com](mailto:tongjohn308@gmail.com)  
 > **Author on Linkedin**: [@John Tong](https://www.linkedin.com/in/johntong123)  
-> **Location**: 🇺🇬Uganda
+> **Location**: 🇺🇬 Uganda
 
 ---
 
-## Fix Image Rendering on GitHub (Quick Guide)
-
-> **Problem**: Images not showing? Broken links.
-
-### Fix in 3 Steps
-
-1. **Create folder structure** (no spaces, lowercase):
