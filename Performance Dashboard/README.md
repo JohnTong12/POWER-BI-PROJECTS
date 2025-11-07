@@ -1,6 +1,6 @@
 # Project Management Dashboard
 
-![Project Management Dashboard](Performance Dashboard/Image_Performance/P_Dashboard.png)
+![Project Management Dashboard](Image_Performance/P_Dashboard.png)
 
 **Your all-in-one Power BI project tracker – simple, smart, and live!** 🌟  
 
