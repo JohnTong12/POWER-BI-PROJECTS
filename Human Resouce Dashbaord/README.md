@@ -72,7 +72,7 @@ Built on a **robust star schema** for performance and accuracy:
 ---
 
 ### 2. **Performance** – Who’s Thriving?
-![Performance Page](HR%20Dashboard/Images/performance.png)
+![Performance Page](Images_HR/Performance.png)
 
 - Headcount by rating (8, 9, 10)
 - Performance vs tenure scatter
