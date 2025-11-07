@@ -12,7 +12,7 @@ Perfect for **HR leaders**, **managers**, and **executives** who want to boost r
 
 ## Data Model – Star Schema (Clean & Scalable)  
 
-![Data Model View](HR%20Dashboard/Images/model_view.png)
+![Data Model View](Images_HR/Model_View_HR.png)
 
 Built on a **robust star schema** for performance and accuracy:
 
