@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![HR Dashboard Overview](HR%20Dashboard/Images/executive_summary.png)
+![HR Dashboard Overview](Images_HR/Overview.png)
 
 **Your all-in-one Power BI HR analytics hub – smart, visual, and actionable!**  
 
