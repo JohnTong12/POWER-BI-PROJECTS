@@ -87,7 +87,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ---
 
 ### 3. **Project Timeline** – Gantt-Style View
-![Project Timeline](Image_Performance/Project Timeline.png)
+![Timeline](Image_Performance/Project_Timeline.png)
 
 - Color-coded bars: Completed, In Progress, Not Started, Overdue
 - See task owners: **Omar Karim** & **Adil Sami** juggling multiple
@@ -104,4 +104,33 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 |--------|----------|---------|-------------|----------|
 | Teresa Kralova | 7 | 0 | **89%** | 85% |
 | Siti Afiqah | 6 | 1 | 85% | 79% |
-| 
+| **Hakima Amrani** | **9** | **5** | 82% | **61%** |
+| Omar Karim | 10 | 4 | 81% | 68% |
+
+> **Action**: Help **Hakima** — redistribute tasks!
+
+---
+
+### Extras: Tooltips & Interactivity
+![Tooltip](Image_Performance/tooltip.png)
+
+- Hover for details
+- Drill-through to tasks
+- Slicers for project type, status, location
+- Dynamic titles & bookmarks
+
+---
+
+## How It’s Built (Simple & Strong) 🛠️
+
+- **Power Query**: Cleaned blanks, fixed types, added columns
+- **DAX**: 20+ smart measures (progress %, budget %, overdue count)
+- **Visuals**: Cards, donuts, bars, map, custom Gantt
+- **Design**: Purple theme, mobile-optimized, zero clutter
+
+
+---
+
+> **Last updated**: November 07, 2025 10:29 AM EAT  
+> **Author on LinkedIn**: [@John Tong](https://www.linkedin.com/in/johntong123)  
+> **Location**: 🇺🇬 Uganda.
