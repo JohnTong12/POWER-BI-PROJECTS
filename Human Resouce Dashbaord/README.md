@@ -61,7 +61,7 @@ Built on a **robust star schema** for performance and accuracy:
 ## 6 Powerful Pages to Explore
 
 ### 1. **Executive Summary** – Leadership View
-![Executive Summary](HR%20Dashboard/Images/executive_summary.png)
+![Executive Summary](Images_HR/Overview.png)
 
 - KPIs: Headcount, Retention, Satisfaction
 - Department distribution & salary benchmarks
