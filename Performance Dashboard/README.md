@@ -1,6 +1,6 @@
 # Project Management Dashboard
 
-![Project Management Dashboard](Performance Dashboard/Image_Performance/P_Dashboard.png)
+![Project Management Dashboard](Performance%20Dashboard/Image_Performance/P_Dashboard.png)
 
 **Your all-in-one Power BI project tracker – simple, smart, and live!** 🌟  
 
@@ -12,7 +12,7 @@ Perfect for **project managers**, **teams**, and **leaders** who want to stay on
 
 ## Data Model – Clean & Powerful (Star Schema) 🏗️
 
-![Data Model View](Performance Dashboard/Image_Performance/Model_View.png)
+![Data Model View](Performance%20Dashboard/Image_Performance/Model_View.png)
 
 Built on a **robust star schema** for speed and accuracy:
 
@@ -64,7 +64,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ## 4 Powerful Pages to Explore
 
 ### 1. **Home** – Your Daily Command Center
-![Home Dashboard](Performance Dashboard/Image_Performance/P_Dashboard.png)
+![Home Dashboard](Performance%20Dashboard/Image_Performance/P_Dashboard.png)
 
 - Big KPIs: 53 projects, $8.7M spent, 75% progress
 - Donut charts: Status & priority
@@ -76,7 +76,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ---
 
 ### 2. **Cost Analysis** – Follow the Money
-![Cost Analysis](Performance Dashboard/Image_Performance/Cost_Analysis.png)
+![Cost Analysis](Performance%20Dashboard/Image_Performance/Cost_Analysis.png)
 
 - Monthly trend: Budget vs actual spend
 - Budget by type: **Residential ($2.1M)**, **Commercial ($2.1M)**
@@ -87,7 +87,7 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ---
 
 ### 3. **Project Timeline** – Gantt-Style View
-![Timeline](Performance Dashboard/Image_Performance/Project Timeline.png)
+![Project Timeline](Performance%20Dashboard/Image_Performance/Project%20Timeline.png)
 
 - Color-coded bars: Completed, In Progress, Not Started, Overdue
 - See task owners: **Omar Karim** & **Adil Sami** juggling multiple
@@ -98,43 +98,10 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 ---
 
 ### 4. **Project Manager** – Team Performance Hub
-![Manager Insights](Performance Dashboard/Image_Performance/P_Manager.png)
+![Manager Insights](Performance%20Dashboard/Image_Performance/P_Manager.png)
 
 | Manager | Projects | Overdue | Budget Used | Progress |
 |--------|----------|---------|-------------|----------|
 | Teresa Kralova | 7 | 0 | **89%** | 85% |
 | Siti Afiqah | 6 | 1 | 85% | 79% |
-| **Hakima Amrani** | **9** | **5** | 82% | **61%** |
-| Omar Karim | 10 | 4 | 81% | 68% |
-
-> **Action**: Help **Hakima** — redistribute tasks!
-
----
-
-### Extras: Tooltips & Interactivity
-![Tooltip](Performance Dashboard/Image_Performance/tooltip.png)
-
-- Hover for details
-- Drill-through to tasks
-- Slicers for project type, status, location
-- Dynamic titles & bookmarks
-
----
-
-## How It’s Built (Simple & Strong) 🛠️
-
-- **Power Query**: Cleaned blanks, fixed types, added columns
-- **DAX**: 20+ smart measures (progress %, budget %, overdue count)
-- **Visuals**: Cards, donuts, bars, map, custom Gantt
-- **Design**: Purple theme, mobile-optimized, zero clutter
-
----
-
-**Built with care by John Tong**  
-*Because great projects deserve great tools.*
-
----
-
-> **Last updated**: November 07, 2025 10:29 AM EAT  
-> **Author on LinkedIn**: [@John Tong](https://www.linkedin.com/in/johntong123)  
-> **Location**: 🇺🇬 Uganda
+| 
