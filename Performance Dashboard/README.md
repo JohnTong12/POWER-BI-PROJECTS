@@ -131,9 +131,9 @@ All money values in **thousands (K)** | Updated **Nov 7, 2025**
 
 ---
 
-**Last updated**: November 07, 2025 10:29 AM EAT  
-**Author on LinkedIn**: [@John Tong](https://www.linkedin.com/in/johntong123)
-**Email**: [tongjohn308@gmail.com](mailto:tongjohn308@gmail.com)
-**Location**: 🇺🇬 Uganda.
+> **Last updated**: November 07, 2025 11:15 AM EAT  
+> **Email**: [tongjohn308@gmail.com](mailto:tongjohn308@gmail.com)  
+> **Author on Linkedin**: [@John Tong](https://www.linkedin.com/in/johntong123)  
+> **Location**: 🇺🇬Uganda
 
 ---
