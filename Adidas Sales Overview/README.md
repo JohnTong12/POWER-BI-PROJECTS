@@ -3,7 +3,7 @@
  Interactive sales performance dashboard , built with Power BI Desktop
 ## 📸 Dashboard Preview
 
-![Adidas Sales Dashboard](Adidas Sales Overview/Addd_1.png)
+![Adidas Sales Dashboard](Image/Addd_1.png)
 
 ### Key Features & Insights
 - **Total Sales**: $120M (+398.6% YoY | +1.9% MoM)
