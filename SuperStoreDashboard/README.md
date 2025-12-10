@@ -44,7 +44,6 @@ Interactive sales dashboard built using the famous **Superstore Dataset** from K
 
 ## Tools Used
 - Microsoft Power BI
-- 
 - Figma for Basic Wireframing
 - Power Query for transformation and cleaning
 
