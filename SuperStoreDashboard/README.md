@@ -2,7 +2,7 @@
 
 Interactive sales dashboard built using the famous **Superstore Dataset** from Kaggle, visualizing key business metrics, regional performance, trends, and customer segments.
 
-![Superstore Dashboard Preview](SuperStoreDashboard\Sales_1.png)
+![Superstore Dashboard Preview](Image/Sales_1.png)
 
 ## Dataset
 - **Source**: [Superstore Dataset (Final) on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
