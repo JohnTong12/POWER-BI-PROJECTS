@@ -1,3 +1,4 @@
+
 # Superstore Sales Dashboard 📊
 
 Interactive sales dashboard built using the famous **Superstore Dataset** from Kaggle, visualizing key business metrics, regional performance, trends, and customer segments.
