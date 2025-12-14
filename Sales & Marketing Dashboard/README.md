@@ -46,9 +46,6 @@ Drill-down view focused on individual product performance.
 ![Sales & Marketing Dashboard - Overview ](Image/Overview.png)
 
 
-### Product Details Page
-![Product Details](Sales%20&%20Marketing%20Dashboard/Images/product-details.png)
-
 ## 🎯 Key Insights Enabled
 - Track year-over-year revenue, cost, and profit growth
 - Identify most effective lead sources and marketing campaigns
@@ -56,6 +53,8 @@ Drill-down view focused on individual product performance.
 - Spot high-performing regions and countries
 - Analyze product-level profitability and popularity
 
+### Product Details Page
+![Product Details](Image/Details.png)
 
 
-## 📁 Repository Structure
+
