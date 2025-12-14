@@ -40,14 +40,11 @@ Drill-down view focused on individual product performance.
 - Revenue
 - Cost
 - Profit
-- Mini sparkline charts for revenue/profit trends
-
-## 📸 Screenshots
+- Mini sparkline charts for revenue/profit trend
 
 ### Overview Page
-![Sales & Marketing Dashboard - Overview 1](Sales%20&%20Marketing%20Dashboard/Images/overview1.png)
-![Sales & Marketing Dashboard - Overview 2](Sales%20&%20Marketing%20Dashboard/Images/overview2.png)
-![Sales & Marketing Dashboard - Overview 3](Sales%20&%20Marketing%20Dashboard/Images/overview3.png)
+![Sales & Marketing Dashboard - Overview ](Image/Overview.png)
+
 
 ### Product Details Page
 ![Product Details](Sales%20&%20Marketing%20Dashboard/Images/product-details.png)
