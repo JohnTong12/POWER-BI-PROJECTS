@@ -11,7 +11,7 @@ The dashboard consists of two main pages:
 ### 1. Overview Page
 Provides a high-level summary of key performance indicators (KPIs) and breakdowns across time, channels, campaigns, and geography.
 
-**Key Metrics Displayed:**
+Key Metrics Displayed
 - Total Revenue
 - Total Cost
 - Profit
