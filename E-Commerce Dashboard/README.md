@@ -2,7 +2,8 @@
 
 This repository contains a screenshot of a modern **E-Commerce Orders Dashboard** built with a dark theme and purple accents.
 
-![E-Commerce Dashboard Screenshot](E-Commerce%20Dashboard/Image/Ecommere2.png)
+![E-Commerce Dashboard Screenshot](Image/ImageE.png)
+
 
 ## Dashboard Overview
 
