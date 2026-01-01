@@ -43,6 +43,4 @@ The design emphasizes clean data modeling, thorough data cleaning, dynamic param
 - **DAX** – Custom measures, calculated columns, and dynamic parameters
 - Basic wireframing for optimal layout planning
 
-This dashboard empowers stakeholders to quickly identify performance drivers, detect emerging challenges, and focus efforts on high-impact areas for sustained growth.---
 
-*Screenshot captured from a sample e-commerce analytics dashboard (2024 data shown).*
