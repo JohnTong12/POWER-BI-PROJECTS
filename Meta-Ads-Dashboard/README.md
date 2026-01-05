@@ -69,4 +69,3 @@ The dataset simulates real-world Meta Ads Manager data, including:
 
 
 
-#MetaAds #PowerBI #DigitalMarketing #DataAnalytics #FacebookAds #InstagramAds
