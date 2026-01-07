@@ -1,6 +1,6 @@
 # Meta Ads Performance Dashboard
 
-![Meta Ads Performance Dashboard](Image/12.png)
+![Meta Ads Performance Dashboard](Image/Image4.png)
 
 
 I'm excited to share a **Meta Ads Performance Dashboard** I've built using a realistic Meta Ads dataset that mirrors how Facebook and Instagram advertising platforms capture and report campaign data.
